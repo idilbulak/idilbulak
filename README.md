@@ -6,7 +6,7 @@
 
 - Working on Push_Swap right now.
 
-<img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47rtak6ez71m2y5jaxfdb0da4fgicopha96gynsznh&rid=giphy.gif&ct=g" width="480" height="270"/>
+<img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47rtak6ez71m2y5jaxfdb0da4fgicopha96gynsznh&rid=giphy.gif&ct=g" width="240" height="135"/>
 
 ---
 
