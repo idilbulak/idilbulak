@@ -1,7 +1,9 @@
 💣 It's Idil Bulak from Amsterdam!
 
-- 👩‍💻 Currently a student at **Codam(42 Network)**
+- Student at **Codam(42 Network)**
 
-- ☠️ Learning C and Phyton.
+- Learning C and Phyton.
 
-<img src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+- Working on Push_Swap right now.
+
+<img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47rtak6ez71m2y5jaxfdb0da4fgicopha96gynsznh&rid=giphy.gif&ct=g" width="480" height="270"/>
